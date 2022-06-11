@@ -55,7 +55,7 @@ class ContractEmployee extends BaseEmployee{
 $emp= new FullTimeEmployee('mayur','mane');
 
 echo $emp->getFullName();
-echo $emp->getMonthlySalary();
+// echo $emp->getMonthlySalary();
 
 
 
